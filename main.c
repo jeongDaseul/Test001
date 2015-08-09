@@ -2,6 +2,6 @@
 
 int mian(void)
 {
-  printf("hello");
+  printf("hello1");
   return 0;
 }
